@@ -2,23 +2,23 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 2281916e-f54c-4ab2-b2dc-de46b31706a7,Socialni demokrati,2022-08-16T15:24:30.162Z,a887be73-9855-4f33-8641-f45d6cf6ef24,SD,Slovenia,si,12676777580,Socialni demokrati,Facebook
 c292e21d-a924-4d16-8a9c-413f61ebe375,Nova Slovenija - Krščanski demokrati,2022-08-16T15:24:30.248Z,c44d4ee7-a5c2-4f87-9562-4e21172288b1,NSi,Slovenia,si,1455468691332640,Nova Slovenija - Krščanski demokrati,Facebook
 dfbd6737-bdb6-4f44-b8d0-fdfc76c335eb,Levica,2022-08-16T15:24:30.265Z,4b625627-c907-441b-88e2-a037ed33c2e0,Lev,Slovenia,si,285304408294792,Levica,Facebook
-b2404d33-98d1-4039-adaa-9205cbab7198,Vlada Republike Slovenije,2023-06-09T06:55:02.347Z,8d120d31-562c-4121-bd8e-b78f8a2f2e1b,Vla,Slovenia,si,1193175320710704,Vlada Republike Slovenije,Facebook
 6cffd5fa-f9b1-4723-8cd3-b80582f8ef8c,Slovenska demokratska stranka,2022-08-16T15:24:30.154Z,3624e525-c852-4b14-a642-b158fcf47b05,Slovenska demokratska stranka,Slovenia,si,30790585231,Slovenska demokratska stranka,Facebook
-19f6e0e3-ba8a-43fe-bff0-321b592ffad0,SD Ljubljana,2023-05-23T06:55:42.902Z,3e6ff9e5-4ec4-42da-bd1f-92ed35aa62c2,SD,Slovenia,si,908457172498961,SD Ljubljana,Facebook
-c4825dc5-ec7e-4159-8a2f-42870f86aa26,Levica Radovljica & Bled,2023-05-15T06:56:01.836Z,2678ebc9-2169-459d-afaf-41972dc50731,Lev,Slovenia,si,335741737178809,Levica Radovljica & Bled,Facebook
+b2404d33-98d1-4039-adaa-9205cbab7198,Vlada Republike Slovenije,2023-06-09T06:55:02.347Z,8d120d31-562c-4121-bd8e-b78f8a2f2e1b,Vla,Slovenia,si,1193175320710704,Vlada Republike Slovenije,Facebook
 ac720f6d-96ae-4b85-ae5b-226bfe8ad8fc,Marko Koprivc,2023-05-05T06:54:58.152Z,e7dd3a75-00b0-438b-8fba-f543916e18c4,SD,Slovenia,si,1600734723323761,Marko Koprivc,Facebook
 8eba8067-5534-406a-9014-f4e48919a13d,Slovenska demokratska mladina (SDM),2023-05-09T06:55:26.164Z,1c62578b-efa9-417c-9073-3111013fe55c,Slovenska demokratska stranka,Slovenia,si,205791806098188,Slovenska demokratska mladina (SDM),Facebook
+19f6e0e3-ba8a-43fe-bff0-321b592ffad0,SD Ljubljana,2023-05-23T06:55:42.902Z,3e6ff9e5-4ec4-42da-bd1f-92ed35aa62c2,SD,Slovenia,si,908457172498961,SD Ljubljana,Facebook
+c4825dc5-ec7e-4159-8a2f-42870f86aa26,Levica Radovljica & Bled,2023-05-15T06:56:01.836Z,2678ebc9-2169-459d-afaf-41972dc50731,Lev,Slovenia,si,335741737178809,Levica Radovljica & Bled,Facebook
 f6e7f81a-c34d-40f6-8e77-2f453efa2bfa,Socialni demokrati Kidričevo,2023-05-15T06:56:01.836Z,1048243a-0829-4f21-9e25-a82fa4b26569,SD,Slovenia,si,639687806144891,Socialni demokrati Kidričevo,Facebook
-db9600e0-0f11-4faf-8ff8-826a5025631e,SD Slovenske Konjice,2023-04-30T06:55:14.092Z,9d3493a4-5926-4e71-8cdb-09296403d890,SD,Slovenia,si,122029977844167,SD Slovenske Konjice,Facebook
 03d005f8-0e14-4512-ba47-81d4b70d2161,Tomaž Lisec,2023-05-15T06:56:01.863Z,5192c796-b151-46c2-9966-846ac6a1ee24,Slovenska demokratska stranka,Slovenia,si,131145926900672,Tomaž Lisec,Facebook
 fae5cce8-de9a-48d2-8aee-b5a97ab68e95,Dr. Jernej Štromajer,2023-05-02T06:55:40.774Z,a7275e15-8432-4839-a8de-13b4abde7db9,SD,Slovenia,si,233559380524262,Dr. Jernej Štromajer,Facebook
-d1ee0a63-7195-4e75-849f-f856dca0b0b1,,2023-03-27T10:55:54.205Z,0d011e64-f29c-402e-9c05-eecd3f5d1403,Slovenska demokratska stranka,Slovenia,si,107568865605183,,Facebook
-0b7cf0ab-d452-4ea4-bd37-2f903abd272f,Mladi forum Kočevje,2023-05-16T06:55:49.291Z,9864d8af-16f8-43d9-92b8-0c427a2d3a54,SD,Slovenia,si,127113274289088,Mladi forum Kočevje,Facebook
 e44e3cf1-218c-4c5b-81ab-7c8340c9f623,Damijan Zrim,2023-09-05T05:08:52.107Z,3c093aab-91bd-4a19-bcdb-d2413127b905,SD,Slovenia,si,106044921814291,Damijan Zrim,Facebook
 04921cf4-3945-47f0-ac51-3a534ebd251d,Slovenska demokratska stranka Trzin,2023-05-23T06:55:42.902Z,d0a07db4-7c84-4025-bed3-f6afb8220540,Slovenska demokratska stranka,Slovenia,si,282815891915096,Slovenska demokratska stranka Trzin,Facebook
-428dab6f-28aa-4548-ac6b-1ecb97d30a3d,Gibanje Svoboda Jesenice,2023-08-07T05:09:50.087Z,c2f1bea8-6036-4d25-8571-62758af40d17,GS,Slovenia,si,110404108482746,Gibanje Svoboda Jesenice,Facebook
+0b7cf0ab-d452-4ea4-bd37-2f903abd272f,Mladi forum Kočevje,2023-05-16T06:55:49.291Z,9864d8af-16f8-43d9-92b8-0c427a2d3a54,SD,Slovenia,si,127113274289088,Mladi forum Kočevje,Facebook
+db9600e0-0f11-4faf-8ff8-826a5025631e,SD Slovenske Konjice,2023-04-30T06:55:14.092Z,9d3493a4-5926-4e71-8cdb-09296403d890,SD,Slovenia,si,122029977844167,SD Slovenske Konjice,Facebook
 f72b3c9b-96a5-4d59-ba6e-eababc9dd1de,Gibanje Svoboda,2023-05-30T06:55:57.270Z,5bd6c0a5-e81b-4cda-8a09-87c5a523a36a,GS,Slovenia,si,101556345428377,Gibanje Svoboda,Facebook
-a174cfee-4336-4683-8916-6859f6f02968,Poslanska skupina SDS,2023-04-01T10:55:28.394Z,19a23eb7-15ff-4a8c-a857-b16c2925c2a7,Slovenska demokratska stranka,Slovenia,si,110010395076182,Poslanska skupina SDS,Facebook
+d1ee0a63-7195-4e75-849f-f856dca0b0b1,,2023-03-27T10:55:54.205Z,0d011e64-f29c-402e-9c05-eecd3f5d1403,Slovenska demokratska stranka,Slovenia,si,107568865605183,,Facebook
 e97bce77-159d-4a3c-be52-933230a8d1e9,Tanja Fajon,2023-06-11T06:55:08.351Z,f600461b-5bb8-4344-a096-66b6b6bce257,SD,Slovenia,si,73452413740,Tanja Fajon,Facebook
-52e6cba6-5e5c-49b7-9c04-c82fc65ceecb,Darko Radikovič Levica,2023-03-29T10:55:48.424Z,5ef34696-406d-4f03-a45e-ef1449e7c4d9,Lev,Slovenia,si,102446699092471,Darko Radikovič Levica,Facebook
+428dab6f-28aa-4548-ac6b-1ecb97d30a3d,Gibanje Svoboda Jesenice,2023-08-07T05:09:50.087Z,c2f1bea8-6036-4d25-8571-62758af40d17,GS,Slovenia,si,110404108482746,Gibanje Svoboda Jesenice,Facebook
 9c558657-6264-483f-a6e7-2024ca6b4eab,Nejc Brence,2023-04-09T10:55:39.465Z,7670ae97-a894-4f90-8df0-f79ec7b72fae,Slovenska demokratska stranka,Slovenia,si,104361365961308,Nejc Brence,Facebook
+a174cfee-4336-4683-8916-6859f6f02968,Poslanska skupina SDS,2023-04-01T10:55:28.394Z,19a23eb7-15ff-4a8c-a857-b16c2925c2a7,Slovenska demokratska stranka,Slovenia,si,110010395076182,Poslanska skupina SDS,Facebook
+52e6cba6-5e5c-49b7-9c04-c82fc65ceecb,Darko Radikovič Levica,2023-03-29T10:55:48.424Z,5ef34696-406d-4f03-a45e-ef1449e7c4d9,Lev,Slovenia,si,102446699092471,Darko Radikovič Levica,Facebook
