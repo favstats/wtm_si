@@ -2,38 +2,48 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 2281916e-f54c-4ab2-b2dc-de46b31706a7,Socialni demokrati,2022-08-16T15:24:30.162Z,a887be73-9855-4f33-8641-f45d6cf6ef24,SD,Slovenia,si,12676777580,Socialni demokrati,Facebook
 c292e21d-a924-4d16-8a9c-413f61ebe375,Nova Slovenija - Krščanski demokrati,2022-08-16T15:24:30.248Z,c44d4ee7-a5c2-4f87-9562-4e21172288b1,NSi,Slovenia,si,1455468691332640,Nova Slovenija - Krščanski demokrati,Facebook
 dfbd6737-bdb6-4f44-b8d0-fdfc76c335eb,Levica,2022-08-16T15:24:30.265Z,4b625627-c907-441b-88e2-a037ed33c2e0,Lev,Slovenia,si,285304408294792,Levica,Facebook
-6cffd5fa-f9b1-4723-8cd3-b80582f8ef8c,Slovenska demokratska stranka,2022-08-16T15:24:30.154Z,3624e525-c852-4b14-a642-b158fcf47b05,Slovenska demokratska stranka,Slovenia,si,30790585231,Slovenska demokratska stranka,Facebook
 b2404d33-98d1-4039-adaa-9205cbab7198,Vlada Republike Slovenije,2023-06-09T06:55:02.347Z,8d120d31-562c-4121-bd8e-b78f8a2f2e1b,Vla,Slovenia,si,1193175320710704,Vlada Republike Slovenije,Facebook
-ac720f6d-96ae-4b85-ae5b-226bfe8ad8fc,Marko Koprivc,2023-05-05T06:54:58.152Z,e7dd3a75-00b0-438b-8fba-f543916e18c4,SD,Slovenia,si,1600734723323761,Marko Koprivc,Facebook
-8eba8067-5534-406a-9014-f4e48919a13d,Slovenska demokratska mladina (SDM),2023-05-09T06:55:26.164Z,1c62578b-efa9-417c-9073-3111013fe55c,Slovenska demokratska stranka,Slovenia,si,205791806098188,Slovenska demokratska mladina (SDM),Facebook
+6cffd5fa-f9b1-4723-8cd3-b80582f8ef8c,Slovenska demokratska stranka,2022-08-16T15:24:30.154Z,3624e525-c852-4b14-a642-b158fcf47b05,Slovenska demokratska stranka,Slovenia,si,30790585231,Slovenska demokratska stranka,Facebook
 19f6e0e3-ba8a-43fe-bff0-321b592ffad0,SD Ljubljana,2023-05-23T06:55:42.902Z,3e6ff9e5-4ec4-42da-bd1f-92ed35aa62c2,SD,Slovenia,si,908457172498961,SD Ljubljana,Facebook
+ac720f6d-96ae-4b85-ae5b-226bfe8ad8fc,Marko Koprivc,2023-05-05T06:54:58.152Z,e7dd3a75-00b0-438b-8fba-f543916e18c4,SD,Slovenia,si,1600734723323761,Marko Koprivc,Facebook
 c4825dc5-ec7e-4159-8a2f-42870f86aa26,Levica Radovljica & Bled,2023-05-15T06:56:01.836Z,2678ebc9-2169-459d-afaf-41972dc50731,Lev,Slovenia,si,335741737178809,Levica Radovljica & Bled,Facebook
+8eba8067-5534-406a-9014-f4e48919a13d,Slovenska demokratska mladina (SDM),2023-05-09T06:55:26.164Z,1c62578b-efa9-417c-9073-3111013fe55c,Slovenska demokratska stranka,Slovenia,si,205791806098188,Slovenska demokratska mladina (SDM),Facebook
+f6e7f81a-c34d-40f6-8e77-2f453efa2bfa,Socialni demokrati Kidričevo,2023-05-15T06:56:01.836Z,1048243a-0829-4f21-9e25-a82fa4b26569,SD,Slovenia,si,639687806144891,Socialni demokrati Kidričevo,Facebook
 db9600e0-0f11-4faf-8ff8-826a5025631e,SD Slovenske Konjice,2023-04-30T06:55:14.092Z,9d3493a4-5926-4e71-8cdb-09296403d890,SD,Slovenia,si,122029977844167,SD Slovenske Konjice,Facebook
+03d005f8-0e14-4512-ba47-81d4b70d2161,Tomaž Lisec,2023-05-15T06:56:01.863Z,5192c796-b151-46c2-9966-846ac6a1ee24,Slovenska demokratska stranka,Slovenia,si,131145926900672,Tomaž Lisec,Facebook
 d1ee0a63-7195-4e75-849f-f856dca0b0b1,,2023-03-27T10:55:54.205Z,0d011e64-f29c-402e-9c05-eecd3f5d1403,Slovenska demokratska stranka,Slovenia,si,107568865605183,,Facebook
 fae5cce8-de9a-48d2-8aee-b5a97ab68e95,Dr. Jernej Štromajer,2023-05-02T06:55:40.774Z,a7275e15-8432-4839-a8de-13b4abde7db9,SD,Slovenia,si,233559380524262,Dr. Jernej Štromajer,Facebook
-e44e3cf1-218c-4c5b-81ab-7c8340c9f623,Damijan Zrim,2023-09-05T05:08:52.107Z,3c093aab-91bd-4a19-bcdb-d2413127b905,SD,Slovenia,si,106044921814291,Damijan Zrim,Facebook
-f6e7f81a-c34d-40f6-8e77-2f453efa2bfa,Socialni demokrati Kidričevo,2023-05-15T06:56:01.836Z,1048243a-0829-4f21-9e25-a82fa4b26569,SD,Slovenia,si,639687806144891,Socialni demokrati Kidričevo,Facebook
-04921cf4-3945-47f0-ac51-3a534ebd251d,Slovenska demokratska stranka Trzin,2023-05-23T06:55:42.902Z,d0a07db4-7c84-4025-bed3-f6afb8220540,Slovenska demokratska stranka,Slovenia,si,282815891915096,Slovenska demokratska stranka Trzin,Facebook
-03d005f8-0e14-4512-ba47-81d4b70d2161,Tomaž Lisec,2023-05-15T06:56:01.863Z,5192c796-b151-46c2-9966-846ac6a1ee24,Slovenska demokratska stranka,Slovenia,si,131145926900672,Tomaž Lisec,Facebook
-f72b3c9b-96a5-4d59-ba6e-eababc9dd1de,Gibanje Svoboda,2023-05-30T06:55:57.270Z,5bd6c0a5-e81b-4cda-8a09-87c5a523a36a,GS,Slovenia,si,101556345428377,Gibanje Svoboda,Facebook
-428dab6f-28aa-4548-ac6b-1ecb97d30a3d,Gibanje Svoboda Jesenice,2023-08-07T05:09:50.087Z,c2f1bea8-6036-4d25-8571-62758af40d17,GS,Slovenia,si,110404108482746,Gibanje Svoboda Jesenice,Facebook
 0b7cf0ab-d452-4ea4-bd37-2f903abd272f,Mladi forum Kočevje,2023-05-16T06:55:49.291Z,9864d8af-16f8-43d9-92b8-0c427a2d3a54,SD,Slovenia,si,127113274289088,Mladi forum Kočevje,Facebook
-a174cfee-4336-4683-8916-6859f6f02968,Poslanska skupina SDS,2023-04-01T10:55:28.394Z,19a23eb7-15ff-4a8c-a857-b16c2925c2a7,Slovenska demokratska stranka,Slovenia,si,110010395076182,Poslanska skupina SDS,Facebook
-9c558657-6264-483f-a6e7-2024ca6b4eab,Nejc Brence,2023-04-09T10:55:39.465Z,7670ae97-a894-4f90-8df0-f79ec7b72fae,Slovenska demokratska stranka,Slovenia,si,104361365961308,Nejc Brence,Facebook
+e44e3cf1-218c-4c5b-81ab-7c8340c9f623,Damijan Zrim,2023-09-05T05:08:52.107Z,3c093aab-91bd-4a19-bcdb-d2413127b905,SD,Slovenia,si,106044921814291,Damijan Zrim,Facebook
+f72b3c9b-96a5-4d59-ba6e-eababc9dd1de,Gibanje Svoboda,2023-05-30T06:55:57.270Z,5bd6c0a5-e81b-4cda-8a09-87c5a523a36a,GS,Slovenia,si,101556345428377,Gibanje Svoboda,Facebook
+04921cf4-3945-47f0-ac51-3a534ebd251d,Slovenska demokratska stranka Trzin,2023-05-23T06:55:42.902Z,d0a07db4-7c84-4025-bed3-f6afb8220540,Slovenska demokratska stranka,Slovenia,si,282815891915096,Slovenska demokratska stranka Trzin,Facebook
 e97bce77-159d-4a3c-be52-933230a8d1e9,Tanja Fajon,2023-06-11T06:55:08.351Z,f600461b-5bb8-4344-a096-66b6b6bce257,SD,Slovenia,si,73452413740,Tanja Fajon,Facebook
-9dc26411-246b-4a9f-98c1-216ac1cf4578,Glorjana,2023-07-05T06:09:24.899Z,bd79304a-9bba-400f-b422-aa3a15c91aca,ZZZ,Slovenia,si,328416220591536,Glorjana,Facebook
+428dab6f-28aa-4548-ac6b-1ecb97d30a3d,Gibanje Svoboda Jesenice,2023-08-07T05:09:50.087Z,c2f1bea8-6036-4d25-8571-62758af40d17,GS,Slovenia,si,110404108482746,Gibanje Svoboda Jesenice,Facebook
+9c558657-6264-483f-a6e7-2024ca6b4eab,Nejc Brence,2023-04-09T10:55:39.465Z,7670ae97-a894-4f90-8df0-f79ec7b72fae,Slovenska demokratska stranka,Slovenia,si,104361365961308,Nejc Brence,Facebook
+a174cfee-4336-4683-8916-6859f6f02968,Poslanska skupina SDS,2023-04-01T10:55:28.394Z,19a23eb7-15ff-4a8c-a857-b16c2925c2a7,Slovenska demokratska stranka,Slovenia,si,110010395076182,Poslanska skupina SDS,Facebook
+bf048a37-1c3f-4134-89c9-9da71ca39368,Evropski parlament Slovenija,2023-03-24T10:55:50.552Z,738500ec-6083-481d-a153-55536fe595ec,ZZZ,Slovenia,si,183314631692914,Evropski parlament Slovenija,Facebook
 52e6cba6-5e5c-49b7-9c04-c82fc65ceecb,Darko Radikovič Levica,2023-03-29T10:55:48.424Z,5ef34696-406d-4f03-a45e-ef1449e7c4d9,Lev,Slovenia,si,102446699092471,Darko Radikovič Levica,Facebook
+9dc26411-246b-4a9f-98c1-216ac1cf4578,Glorjana,2023-07-05T06:09:24.899Z,bd79304a-9bba-400f-b422-aa3a15c91aca,ZZZ,Slovenia,si,328416220591536,Glorjana,Facebook
+1db6dffc-54a4-45ab-b9f5-f1056870bd76,Spletno računovodstvo miniMAX,2023-03-24T10:55:50.531Z,268d5447-78d3-40a2-abef-f2a9766e7a04,ZZZ,Slovenia,si,350219500223,Spletno računovodstvo miniMAX,Facebook
+75a5fa46-fe6f-4a87-9e39-aec0b45b4204,Pokol ni rešitev,2023-03-27T10:55:54.219Z,763349f9-1f16-40d6-bb3e-3cd89e555bbd,ZZZ,Slovenia,si,116536996393286,Pokol ni rešitev,Facebook
 7ebee213-2cd0-4b04-adcc-7cb73e684163,EY Slovenia,2023-09-18T05:09:00.487Z,33d53b8d-ffa7-450f-bdbd-1f93a4460a98,ZZZ,Slovenia,si,102323128733355,EY Slovenia,Facebook
+65017aeb-6989-4d04-91e1-daf43a644ef5,Tax-Fin-Lex,2023-03-27T10:55:54.202Z,30177193-2f4e-4f43-84ee-c8fa38e28e2e,ZZZ,Slovenia,si,199408453438851,Tax-Fin-Lex,Facebook
 220b840f-6bdb-4699-94fd-b5ac9eb5b94d,Svet Živali,2023-07-10T06:53:21.747Z,c2a84dad-3d2e-4912-8ba3-0ea69051d98a,ZZZ,Slovenia,si,110136878650577,Svet Živali,Facebook
 95ef2b59-e09a-4f10-94fc-8846498340b2,Alpsko,2023-07-12T15:02:01.095Z,82bc4c8b-7481-4b75-a98c-943902e9d9ff,ZZZ,Slovenia,si,119341358091848,Alpsko,Facebook
+c37764cb-fc83-4241-86bb-84662e42ade7,Volkswagen,2023-03-27T10:55:54.219Z,0a28280a-1c88-4ab1-b981-0e658e883cd4,ZZZ,Slovenia,si,132019426830397,Volkswagen,Facebook
 74d3598c-3be5-498f-b84b-2f9609243bf5,Agro Zavarovalnica,2023-07-13T12:32:33.077Z,e39efa00-3a7b-45f7-a0a0-36ad3752edc5,ZZZ,Slovenia,si,107759985520299,Agro Zavarovalnica,Facebook
+e8d8d72b-f333-4f76-b208-d3c6450b0614,TERMO SHOP - Toplotne črpalke,2023-03-29T10:55:48.450Z,ed1f073f-1d9e-4850-8d67-91a2d898bd3b,ZZZ,Slovenia,si,549424995102381,TERMO SHOP - Toplotne črpalke,Facebook
 be08d574-86b8-4ccb-a08a-ddd3cffff39b,Snaga Maribor,2023-07-17T06:34:01.634Z,6e891018-9532-49eb-9631-0606b7436230,ZZZ,Slovenia,si,153051678087658,Snaga Maribor,Facebook
 3d181531-0d6e-4b2c-a279-49ef1051d3f3,Helen Doron English Kranj,2023-09-18T05:09:00.463Z,045ba881-425c-4929-81d1-57bcab9c7fd0,ZZZ,Slovenia,si,937938749583277,Helen Doron English Kranj,Facebook
 b13033c7-f8af-408f-9370-5dbc140bcb75,"Porabi manj, bodi učinkovit",2023-07-17T10:06:13.032Z,70c64931-0fb1-44da-8387-dfafa42640ff,ZZZ,Slovenia,si,63732178374,"Porabi manj, bodi učinkovit",Facebook
+695393a5-26a1-435b-8da9-24efe5ee7dca,mömax Slovenija,2023-03-29T10:55:48.301Z,5f9590e2-dd1c-4314-88c5-9bf8764590ad,ZZZ,Slovenia,si,423921247775424,mömax Slovenija,Facebook
 f402c3a3-7618-49f2-a284-b6664e96a29c,POP TV,2023-07-17T10:06:12.999Z,a4dc2bec-1065-4574-b03b-d3445e3ced9e,ZZZ,Slovenia,si,147563415266743,POP TV,Facebook
 184826b9-54de-4e83-be5e-0849bd40d550,Versopolis,2023-07-18T06:09:04.506Z,e8bd3990-14a0-4f23-bb6a-46fb3ee43972,ZZZ,Slovenia,si,851064054915673,Versopolis,Facebook
+77f9b37a-9209-4a1f-abd3-79e560d3a893,Peto kolo,2023-03-28T10:55:41.739Z,39675826-059d-4a03-ae42-629e2084e02a,ZZZ,Slovenia,si,101434831606281,Peto kolo,Facebook
 c415e250-d7f9-4a5f-917c-07e05fba4868,Julian Alps,2023-07-20T06:09:16.230Z,9a5d7faf-4e9a-4386-a84d-4dbf93b8cd20,ZZZ,Slovenia,si,1934854016538360,Julian Alps,Facebook
+07d7ee86-9da2-434f-b2e4-295d3597c65c,Avto magazin,2023-03-28T10:55:41.737Z,6482422f-65fc-4a01-8cc8-cd62d48ab1e6,ZZZ,Slovenia,si,116890561115,Avto magazin,Facebook
 08286561-cf87-45b7-a4a7-9ec5d3bd89ff,Denshō Karate Club,2023-08-19T05:09:39.211Z,a10f2db8-9a6e-4cb9-8d4d-d88308fb53fb,ZZZ,Slovenia,si,110109028504014,Denshō Karate Club,Facebook
+90e3c8a1-9633-4485-aabe-b9d5e7dbb5d4,Wienerberger Slovenija,2023-03-31T10:55:55.904Z,c19a0391-c0f1-469f-93ce-73b19cdaf0db,ZZZ,Slovenia,si,618044251583147,Wienerberger Slovenija,Facebook
 4afeb2db-8122-405c-8d2c-6da017e5bd94,Zvezdni Kamni,2023-08-19T05:09:39.211Z,abb36ff5-e597-4620-ac07-e6bff63642d4,ZZZ,Slovenia,si,506627722754028,Zvezdni Kamni,Facebook
 b12cfa88-c848-492d-b8dd-b173f21702be,RRA Podravje - Maribor,2023-07-22T05:09:41.311Z,51586ae1-b26a-4fa1-8162-7c8b9cef05be,ZZZ,Slovenia,si,467097679979959,RRA Podravje - Maribor,Facebook
 b303b37c-759a-443e-b97c-cdfc709a1503,Inštitut za zdravje in okolje,2023-09-08T05:09:10.942Z,1adaac9d-3a25-44df-8c45-9a3e48785398,ZZZ,Slovenia,si,1757423617917123,Inštitut za zdravje in okolje,Facebook
@@ -74,16 +84,45 @@ e0f8813b-bb4e-49e3-82c3-9852bad11795,Futr za jutr,2023-03-22T10:55:35.195Z,37f7c
 4fd50289-bfce-40da-96d7-f93db06e6b1b,michael_gregorjev_murn,2023-03-24T10:55:50.554Z,f47cdcaf-78d5-4b41-905e-b8409c62e5a8,ZZZ,Slovenia,si,104393765316954,michael_gregorjev_murn,Facebook
 69c7df8b-8706-4c65-90fe-af72aa42e224,"Casino Admiral, Ptuj - igralni salon",2023-03-24T10:55:50.550Z,567d4164-7588-4642-8b2b-97d13653dd5e,ZZZ,Slovenia,si,425362784214772,"Casino Admiral, Ptuj - igralni salon",Facebook
 679099a7-98df-43f1-aa3a-0291e6fb7f33,"Casino Admiral, Maribor - igralni salon",2023-03-24T10:55:50.551Z,e56fbc3b-0ea2-4b5a-a98b-92d0fd530a68,ZZZ,Slovenia,si,424353957642502,"Casino Admiral, Maribor - igralni salon",Facebook
-bf048a37-1c3f-4134-89c9-9da71ca39368,Evropski parlament Slovenija,2023-03-24T10:55:50.552Z,738500ec-6083-481d-a153-55536fe595ec,ZZZ,Slovenia,si,183314631692914,Evropski parlament Slovenija,Facebook
-1db6dffc-54a4-45ab-b9f5-f1056870bd76,Spletno računovodstvo miniMAX,2023-03-24T10:55:50.531Z,268d5447-78d3-40a2-abef-f2a9766e7a04,ZZZ,Slovenia,si,350219500223,Spletno računovodstvo miniMAX,Facebook
-75a5fa46-fe6f-4a87-9e39-aec0b45b4204,Pokol ni rešitev,2023-03-27T10:55:54.219Z,763349f9-1f16-40d6-bb3e-3cd89e555bbd,ZZZ,Slovenia,si,116536996393286,Pokol ni rešitev,Facebook
-65017aeb-6989-4d04-91e1-daf43a644ef5,Tax-Fin-Lex,2023-03-27T10:55:54.202Z,30177193-2f4e-4f43-84ee-c8fa38e28e2e,ZZZ,Slovenia,si,199408453438851,Tax-Fin-Lex,Facebook
-c37764cb-fc83-4241-86bb-84662e42ade7,Volkswagen,2023-03-27T10:55:54.219Z,0a28280a-1c88-4ab1-b981-0e658e883cd4,ZZZ,Slovenia,si,132019426830397,Volkswagen,Facebook
-e8d8d72b-f333-4f76-b208-d3c6450b0614,TERMO SHOP - Toplotne črpalke,2023-03-29T10:55:48.450Z,ed1f073f-1d9e-4850-8d67-91a2d898bd3b,ZZZ,Slovenia,si,549424995102381,TERMO SHOP - Toplotne črpalke,Facebook
-695393a5-26a1-435b-8da9-24efe5ee7dca,mömax Slovenija,2023-03-29T10:55:48.301Z,5f9590e2-dd1c-4314-88c5-9bf8764590ad,ZZZ,Slovenia,si,423921247775424,mömax Slovenija,Facebook
-77f9b37a-9209-4a1f-abd3-79e560d3a893,Peto kolo,2023-03-28T10:55:41.739Z,39675826-059d-4a03-ae42-629e2084e02a,ZZZ,Slovenia,si,101434831606281,Peto kolo,Facebook
-07d7ee86-9da2-434f-b2e4-295d3597c65c,Avto magazin,2023-03-28T10:55:41.737Z,6482422f-65fc-4a01-8cc8-cd62d48ab1e6,ZZZ,Slovenia,si,116890561115,Avto magazin,Facebook
-90e3c8a1-9633-4485-aabe-b9d5e7dbb5d4,Wienerberger Slovenija,2023-03-31T10:55:55.904Z,c19a0391-c0f1-469f-93ce-73b19cdaf0db,ZZZ,Slovenia,si,618044251583147,Wienerberger Slovenija,Facebook
+fa466e6e-fe42-415a-af8b-c7f9ffa09ef7,Društvo MUC,2023-06-23T05:18:48.649Z,0c6940eb-a7ca-4713-9ac8-c38c651cddf4,ZZZ,Slovenia,si,111911884593889,Društvo MUC,Facebook
+db5e685d-55f5-4e3c-89ea-ff415e486982,Roots In Session,2023-06-23T05:18:48.642Z,1816abf4-8a76-42e5-8ee1-a8e596c5b0bb,ZZZ,Slovenia,si,13878222689,Roots In Session,Facebook
+273c79e6-e58e-4212-91f9-cf2186523165,Carglass Slovenija,2023-06-23T06:14:47.243Z,5ffcae6e-32dc-40ac-9222-1b0068c541b6,ZZZ,Slovenia,si,110554005691278,Carglass Slovenija,Facebook
+79599356-bb8d-4d05-a420-4f3bc5e00c68,Bizarna Tiskarna,2023-06-24T06:49:36.963Z,c9bbc639-a103-452c-8ef4-cdf275a32682,ZZZ,Slovenia,si,115229098197781,Bizarna Tiskarna,Facebook
+1284e654-0654-4053-93ff-834a107a966f,DRUM dogodki,2023-06-29T05:44:39.914Z,8813942a-208d-42ce-9c2b-afbff84f5544,ZZZ,Slovenia,si,545625665561794,DRUM dogodki,Facebook
+f16b5e50-19f3-4257-ae85-26627453b773,MAkSi,2023-06-30T06:14:12.723Z,46bafc0a-4b73-46a6-adda-f79f0a39c4f1,ZZZ,Slovenia,si,186988191392341,MAkSi,Facebook
+99d5d8b9-c56a-4f5a-8bee-8300dd33605e,CORWIN Slovenija,2023-07-01T05:10:09.557Z,cb08732a-44ad-4b99-a305-c9bc3fb1318d,ZZZ,Slovenia,si,102919517855293,CORWIN Slovenija,Facebook
+e6a99177-7c7c-4600-aab0-f7e0e4761f0b,S&T Iskratel,2023-07-01T05:10:09.513Z,1833c6c4-9a14-49fa-a41c-198e5af18a72,ZZZ,Slovenia,si,137329369680506,S&T Iskratel,Facebook
+439d98db-a5ef-4949-9997-7c25ff883e66,SDS Slovenska Bistrica,2023-11-20T06:56:35.496Z,e4370c85-4070-4ed5-9602-9721eff5829b,Slovenska demokratska stranka,Slovenia,si,881055901973922,SDS Slovenska Bistrica,Facebook
+668e483f-0a25-49c8-960d-d5d1485e7fd5,SDS Radenci,2024-01-01T05:08:25.722Z,add8a800-dd58-43d9-b517-adbf062691b2,Slovenska demokratska stranka,Slovenia,si,101563142429173,SDS Radenci,Facebook
+830dbfbf-c15e-4892-b065-4d1ce46ef509,Inštitut 1. maj,2023-12-01T06:01:30.022Z,35bba1d2-2779-4bdb-bc5b-19cdfa919ac8,ZZZ,Slovenia,si,105432152532581,Inštitut 1. maj,Facebook
+033b12e8-0e07-4372-926a-c1a87c01db7c,Socialni demokrati Kanal ob Soči,2023-12-24T05:08:47.205Z,c3aef75b-b1f5-4aa9-943b-310b127afa9d,SD,Slovenia,si,311297296326320,Socialni demokrati Kanal ob Soči,Facebook
+f193c848-eebf-496f-b800-1fe35ed033cc,Andrej Mešič za župana,2024-01-22T05:08:34.379Z,8341195b-1702-410e-a984-312017c15b7b,Slovenska demokratska stranka,Slovenia,si,106773742202833,Andrej Mešič za župana,Facebook
+9595d419-a446-48dd-b922-3ff8aaea63dd,Socialni demokrati Ptuj,2023-11-06T06:02:22.012Z,135fed6f-fc24-4397-965a-befdf3a2550c,SD,Slovenia,si,477524882292355,Socialni demokrati Ptuj,Facebook
+8c91519d-fe3c-46c0-969d-2a0fc81f6430,SD Zreče,2023-12-18T05:09:19.924Z,03d96a80-d6ad-41ec-ba3e-002ec194dfda,SD,Slovenia,si,1520205331553514,SD Zreče,Facebook
+f986fc4d-343d-4c58-a4b0-15395eb0f4cf,Gibanje Svoboda Radenci,2023-12-30T05:08:22.973Z,9ddcd93f-02a0-4d20-abeb-78a941c5106c,GS,Slovenia,si,106472095552450,Gibanje Svoboda Radenci,Facebook
+49c7fb43-dcf9-4833-b84e-b4bb77c8e8d3,Gibanje Svoboda Novo mesto,2023-12-19T05:08:28.229Z,c1e97f4c-1fbb-485c-8cd7-1144e33d937f,GS,Slovenia,si,105777038952520,Gibanje Svoboda Novo mesto,Facebook
+36b5b50b-ff0d-4451-8f83-f1b30494ade8,Gibanje Svoboda Trbovlje,2023-11-20T07:09:49.247Z,8dbd83ab-7d7a-4bea-b0a3-dc17b8da9341,GS,Slovenia,si,102244576005612,Gibanje Svoboda Trbovlje,Facebook
+955a194e-709f-485b-8571-1f70506ebe2b,Visit Saleska,2023-11-10T05:58:51.309Z,f15ba924-344f-494c-aeca-188621b36be6,ZZZ,Slovenia,si,614314245300208,Visit Saleska,Facebook
+6c619d4e-cd1f-4064-9509-40c926120716,Medicinski center Medartis,2023-12-05T05:08:52.095Z,5141c2b7-30e4-4779-8e4e-a112787c3734,ZZZ,Slovenia,si,796383260438499,Medicinski center Medartis,Facebook
+acb6d1b5-0f10-4e24-b43c-a8bc625bede6,Lista Marjana Šarca,2022-08-16T15:24:30.154Z,6d6e956b-2370-4506-ad09-4dcabb51bc5e,ZZZ,Slovenia,si,1688472281270550,Lista Marjana Šarca,Facebook
+20231a04-cd24-4f98-b1d7-2574dc16648a,Radio Si,2023-05-27T06:54:58.711Z,5ceb3190-d21c-440b-9436-12f09d0809c1,ZZZ,Slovenia,si,101923869282,Radio Si,Facebook
+59d3ed94-85cb-46dc-bff3-f181e245e7b1,Stranka modernega centra,2022-08-16T15:24:30.172Z,4f7bac23-c6de-4ad2-bb9f-c3acfb7f7b9e,ZZZ,Slovenia,si,1510216172561380,Stranka modernega centra,Facebook
+92e44b7d-4cd7-4b2b-a437-a94609cbeb2e,Slovenska nacionalna stranka,2022-08-16T15:24:30.274Z,29b32f7b-42e3-40f5-a715-a79bb7e2b96b,ZZZ,Slovenia,si,1911262768928250,Slovenska nacionalna stranka,Facebook
+092376ba-54b4-46f7-8f23-7997b1c19999,SDS Škofja Loka,2023-11-28T07:39:42.539Z,073b49ef-a09b-4f29-af7f-fed98b835c72,Slovenska demokratska stranka,Slovenia,si,501134680077,SDS Škofja Loka,Facebook
+ff80288a-849b-4a1e-909b-669589248907,Shoppster Slovenija,2023-12-30T05:08:23.002Z,e02070eb-7593-4f3d-ae05-a43119cb20d3,ZZZ,Slovenia,si,215829762027,Shoppster Slovenija,Facebook
+15d7202f-1c88-4400-a376-db6b54d7d340,Enterpoint,2024-01-21T05:09:02.625Z,12ba2bf4-40a4-4cc7-8c42-339fb20628a2,ZZZ,Slovenia,si,103921568846586,Enterpoint,Facebook
+ef544bcf-8270-4a38-8364-4824748076d7,Lullaby compass 57,2023-12-20T05:08:48.290Z,4414632c-daca-4aa0-9627-7cf81bdae419,ZZZ,Slovenia,si,141551909050380,Lullaby compass 57,Facebook
+ba297056-44af-42f2-b78a-27e173bd3195,BTC City,2023-12-04T05:36:21.506Z,0dc6077a-700f-4b5b-a5e7-ab70562f4e54,ZZZ,Slovenia,si,120035681384136,BTC City,Facebook
+d8c1e242-3245-4080-8c41-c6c8e30d28e8,Bloomberg Adria Slovenija,2023-11-20T07:09:49.306Z,e6d011ba-2d50-418c-bea2-d45e08c61cbb,ZZZ,Slovenia,si,101137502602003,Bloomberg Adria Slovenija,Facebook
+5647e821-6a0a-421e-a86e-41d964ea74d4,BMW Slovenija,2023-12-05T05:08:52.015Z,21f92cbb-bcc9-44fe-87b4-2f2eb600b9a1,ZZZ,Slovenia,si,157689954242062,BMW Slovenija,Facebook
+28d26dc7-d323-48da-a377-2e828df5b092,Zgodovinska mesta Slovenije - Slovenia Historic Towns,2024-01-01T05:08:25.736Z,bdec8ea5-e0ea-4665-a333-f345567ad910,ZZZ,Slovenia,si,392163414694688,Zgodovinska mesta Slovenije - Slovenia Historic Towns,Facebook
+656b5364-956c-4621-b8fd-f42c89469106,Gorgeous volleyball 38,2023-12-15T05:09:00.850Z,024f914f-0ab8-4be3-a1ac-5fc49813bb02,ZZZ,Slovenia,si,162581680278488,Gorgeous volleyball 38,Facebook
+9cee3bd8-0a53-4fc8-a8df-9e45e2a8e737,Visit Ribnica,2023-12-22T05:08:39.782Z,8946e78b-49dc-4ea5-bee8-82bd2f4db83c,ZZZ,Slovenia,si,108556554199133,Visit Ribnica,Facebook
+a37812d4-17b0-4934-9e4e-76db5738ad85,Data doo,2024-01-13T05:08:37.937Z,33a1e2bc-b76d-4eb1-acae-5db7a6b16162,ZZZ,Slovenia,si,135399203144311,Data doo,Facebook
+d281c7b5-7b4b-4818-af12-305b1ef3f7f3,National Geographic,2023-11-10T05:58:51.309Z,d183cb50-1096-4737-a32b-f0ff3c526df0,ZZZ,Slovenia,si,171389239640192,National Geographic,Facebook
+cb6c7794-619a-4a03-b66c-768cf5dcf4ec,Slovenska demokratska stranka,2024-04-17T09:16:59.440Z,f28ae482-6a4b-4434-b02d-471188289d0f,Slovenska demokratska stranka,Slovenia,si,AR01143237418506256385,Slovenska demokratska stranka,Google
+22fef11c-d316-4f06-bd12-622d7b027d87,Gibanje Svoboda,2024-04-17T09:08:25.747Z,224532e0-5074-4fd8-b236-f50199d9e1a0,GS,Slovenia,si,AR14131230891116068865,Gibanje Svoboda,Google
+5978a7c2-9f55-4f13-be77-61c6b1b1e99c,Socialni demokrati (SD),2024-04-16T14:37:32.387Z,dea01a5f-e9c5-4bf3-8fcc-fc9c224fd80c,SD,Slovenia,si,AR03738058059461689345,Socialni demokrati (SD),Google
 aa097dde-ea64-4ad8-ac16-f698a2bc335b,Moje Finance,2023-04-01T10:55:28.383Z,65e952d5-4828-4124-836c-3aff55f08c0a,ZZZ,Slovenia,si,110380839035399,Moje Finance,Facebook
 517b85d3-c325-442e-b9b5-2c7f0a64c1cd,Obljuba dela dolg,2023-04-01T10:55:28.381Z,de188c1a-c398-4286-97c2-b742bb2f5042,ZZZ,Slovenia,si,106066558388444,Obljuba dela dolg,Facebook
 7a03c440-a7aa-4cd4-a7ed-c931ca546a8b,Casino Admiral Lesce - igralni salon,2023-04-02T10:55:47.618Z,2622d622-9769-4707-ba3c-0d3ded8bc2e2,ZZZ,Slovenia,si,1487410811565619,Casino Admiral Lesce - igralni salon,Facebook
@@ -171,42 +210,3 @@ e92ebe4d-ca0d-467c-914f-e96a49421d68,LONCI&POKLOPCI by Bajde Slovenija,2023-06-1
 74abd5c4-b5c2-45c1-8e0e-1f3678763dfe,UNICEF Slovenija,2023-06-19T18:27:03.047Z,6d4226aa-5d29-43a9-8781-d1a848fb710f,ZZZ,Slovenia,si,128900614910,UNICEF Slovenija,Facebook
 f79c4d3e-93ff-4866-a52c-08e6e58b59af,One Health One Environment EU,2023-06-19T18:27:03.048Z,10c80dc7-7e5e-4f9e-9a00-776efccda39b,ZZZ,Slovenia,si,101423932550406,One Health One Environment EU,Facebook
 b7fecf45-139c-4be3-9187-84c3f70f347a,Praznik glasbe,2023-06-19T18:27:03.057Z,e5743711-e4e7-49eb-ad49-a09fac16b5a4,ZZZ,Slovenia,si,191945757524015,Praznik glasbe,Facebook
-fa466e6e-fe42-415a-af8b-c7f9ffa09ef7,Društvo MUC,2023-06-23T05:18:48.649Z,0c6940eb-a7ca-4713-9ac8-c38c651cddf4,ZZZ,Slovenia,si,111911884593889,Društvo MUC,Facebook
-db5e685d-55f5-4e3c-89ea-ff415e486982,Roots In Session,2023-06-23T05:18:48.642Z,1816abf4-8a76-42e5-8ee1-a8e596c5b0bb,ZZZ,Slovenia,si,13878222689,Roots In Session,Facebook
-273c79e6-e58e-4212-91f9-cf2186523165,Carglass Slovenija,2023-06-23T06:14:47.243Z,5ffcae6e-32dc-40ac-9222-1b0068c541b6,ZZZ,Slovenia,si,110554005691278,Carglass Slovenija,Facebook
-79599356-bb8d-4d05-a420-4f3bc5e00c68,Bizarna Tiskarna,2023-06-24T06:49:36.963Z,c9bbc639-a103-452c-8ef4-cdf275a32682,ZZZ,Slovenia,si,115229098197781,Bizarna Tiskarna,Facebook
-1284e654-0654-4053-93ff-834a107a966f,DRUM dogodki,2023-06-29T05:44:39.914Z,8813942a-208d-42ce-9c2b-afbff84f5544,ZZZ,Slovenia,si,545625665561794,DRUM dogodki,Facebook
-f16b5e50-19f3-4257-ae85-26627453b773,MAkSi,2023-06-30T06:14:12.723Z,46bafc0a-4b73-46a6-adda-f79f0a39c4f1,ZZZ,Slovenia,si,186988191392341,MAkSi,Facebook
-99d5d8b9-c56a-4f5a-8bee-8300dd33605e,CORWIN Slovenija,2023-07-01T05:10:09.557Z,cb08732a-44ad-4b99-a305-c9bc3fb1318d,ZZZ,Slovenia,si,102919517855293,CORWIN Slovenija,Facebook
-e6a99177-7c7c-4600-aab0-f7e0e4761f0b,S&T Iskratel,2023-07-01T05:10:09.513Z,1833c6c4-9a14-49fa-a41c-198e5af18a72,ZZZ,Slovenia,si,137329369680506,S&T Iskratel,Facebook
-439d98db-a5ef-4949-9997-7c25ff883e66,SDS Slovenska Bistrica,2023-11-20T06:56:35.496Z,e4370c85-4070-4ed5-9602-9721eff5829b,Slovenska demokratska stranka,Slovenia,si,881055901973922,SDS Slovenska Bistrica,Facebook
-668e483f-0a25-49c8-960d-d5d1485e7fd5,SDS Radenci,2024-01-01T05:08:25.722Z,add8a800-dd58-43d9-b517-adbf062691b2,Slovenska demokratska stranka,Slovenia,si,101563142429173,SDS Radenci,Facebook
-830dbfbf-c15e-4892-b065-4d1ce46ef509,Inštitut 1. maj,2023-12-01T06:01:30.022Z,35bba1d2-2779-4bdb-bc5b-19cdfa919ac8,ZZZ,Slovenia,si,105432152532581,Inštitut 1. maj,Facebook
-033b12e8-0e07-4372-926a-c1a87c01db7c,Socialni demokrati Kanal ob Soči,2023-12-24T05:08:47.205Z,c3aef75b-b1f5-4aa9-943b-310b127afa9d,SD,Slovenia,si,311297296326320,Socialni demokrati Kanal ob Soči,Facebook
-f193c848-eebf-496f-b800-1fe35ed033cc,Andrej Mešič za župana,2024-01-22T05:08:34.379Z,8341195b-1702-410e-a984-312017c15b7b,Slovenska demokratska stranka,Slovenia,si,106773742202833,Andrej Mešič za župana,Facebook
-9595d419-a446-48dd-b922-3ff8aaea63dd,Socialni demokrati Ptuj,2023-11-06T06:02:22.012Z,135fed6f-fc24-4397-965a-befdf3a2550c,SD,Slovenia,si,477524882292355,Socialni demokrati Ptuj,Facebook
-8c91519d-fe3c-46c0-969d-2a0fc81f6430,SD Zreče,2023-12-18T05:09:19.924Z,03d96a80-d6ad-41ec-ba3e-002ec194dfda,SD,Slovenia,si,1520205331553514,SD Zreče,Facebook
-f986fc4d-343d-4c58-a4b0-15395eb0f4cf,Gibanje Svoboda Radenci,2023-12-30T05:08:22.973Z,9ddcd93f-02a0-4d20-abeb-78a941c5106c,GS,Slovenia,si,106472095552450,Gibanje Svoboda Radenci,Facebook
-49c7fb43-dcf9-4833-b84e-b4bb77c8e8d3,Gibanje Svoboda Novo mesto,2023-12-19T05:08:28.229Z,c1e97f4c-1fbb-485c-8cd7-1144e33d937f,GS,Slovenia,si,105777038952520,Gibanje Svoboda Novo mesto,Facebook
-36b5b50b-ff0d-4451-8f83-f1b30494ade8,Gibanje Svoboda Trbovlje,2023-11-20T07:09:49.247Z,8dbd83ab-7d7a-4bea-b0a3-dc17b8da9341,GS,Slovenia,si,102244576005612,Gibanje Svoboda Trbovlje,Facebook
-955a194e-709f-485b-8571-1f70506ebe2b,Visit Saleska,2023-11-10T05:58:51.309Z,f15ba924-344f-494c-aeca-188621b36be6,ZZZ,Slovenia,si,614314245300208,Visit Saleska,Facebook
-6c619d4e-cd1f-4064-9509-40c926120716,Medicinski center Medartis,2023-12-05T05:08:52.095Z,5141c2b7-30e4-4779-8e4e-a112787c3734,ZZZ,Slovenia,si,796383260438499,Medicinski center Medartis,Facebook
-acb6d1b5-0f10-4e24-b43c-a8bc625bede6,Lista Marjana Šarca,2022-08-16T15:24:30.154Z,6d6e956b-2370-4506-ad09-4dcabb51bc5e,ZZZ,Slovenia,si,1688472281270550,Lista Marjana Šarca,Facebook
-20231a04-cd24-4f98-b1d7-2574dc16648a,Radio Si,2023-05-27T06:54:58.711Z,5ceb3190-d21c-440b-9436-12f09d0809c1,ZZZ,Slovenia,si,101923869282,Radio Si,Facebook
-59d3ed94-85cb-46dc-bff3-f181e245e7b1,Stranka modernega centra,2022-08-16T15:24:30.172Z,4f7bac23-c6de-4ad2-bb9f-c3acfb7f7b9e,ZZZ,Slovenia,si,1510216172561380,Stranka modernega centra,Facebook
-92e44b7d-4cd7-4b2b-a437-a94609cbeb2e,Slovenska nacionalna stranka,2022-08-16T15:24:30.274Z,29b32f7b-42e3-40f5-a715-a79bb7e2b96b,ZZZ,Slovenia,si,1911262768928250,Slovenska nacionalna stranka,Facebook
-092376ba-54b4-46f7-8f23-7997b1c19999,SDS Škofja Loka,2023-11-28T07:39:42.539Z,073b49ef-a09b-4f29-af7f-fed98b835c72,Slovenska demokratska stranka,Slovenia,si,501134680077,SDS Škofja Loka,Facebook
-ff80288a-849b-4a1e-909b-669589248907,Shoppster Slovenija,2023-12-30T05:08:23.002Z,e02070eb-7593-4f3d-ae05-a43119cb20d3,ZZZ,Slovenia,si,215829762027,Shoppster Slovenija,Facebook
-15d7202f-1c88-4400-a376-db6b54d7d340,Enterpoint,2024-01-21T05:09:02.625Z,12ba2bf4-40a4-4cc7-8c42-339fb20628a2,ZZZ,Slovenia,si,103921568846586,Enterpoint,Facebook
-ef544bcf-8270-4a38-8364-4824748076d7,Lullaby compass 57,2023-12-20T05:08:48.290Z,4414632c-daca-4aa0-9627-7cf81bdae419,ZZZ,Slovenia,si,141551909050380,Lullaby compass 57,Facebook
-ba297056-44af-42f2-b78a-27e173bd3195,BTC City,2023-12-04T05:36:21.506Z,0dc6077a-700f-4b5b-a5e7-ab70562f4e54,ZZZ,Slovenia,si,120035681384136,BTC City,Facebook
-d8c1e242-3245-4080-8c41-c6c8e30d28e8,Bloomberg Adria Slovenija,2023-11-20T07:09:49.306Z,e6d011ba-2d50-418c-bea2-d45e08c61cbb,ZZZ,Slovenia,si,101137502602003,Bloomberg Adria Slovenija,Facebook
-5647e821-6a0a-421e-a86e-41d964ea74d4,BMW Slovenija,2023-12-05T05:08:52.015Z,21f92cbb-bcc9-44fe-87b4-2f2eb600b9a1,ZZZ,Slovenia,si,157689954242062,BMW Slovenija,Facebook
-28d26dc7-d323-48da-a377-2e828df5b092,Zgodovinska mesta Slovenije - Slovenia Historic Towns,2024-01-01T05:08:25.736Z,bdec8ea5-e0ea-4665-a333-f345567ad910,ZZZ,Slovenia,si,392163414694688,Zgodovinska mesta Slovenije - Slovenia Historic Towns,Facebook
-656b5364-956c-4621-b8fd-f42c89469106,Gorgeous volleyball 38,2023-12-15T05:09:00.850Z,024f914f-0ab8-4be3-a1ac-5fc49813bb02,ZZZ,Slovenia,si,162581680278488,Gorgeous volleyball 38,Facebook
-9cee3bd8-0a53-4fc8-a8df-9e45e2a8e737,Visit Ribnica,2023-12-22T05:08:39.782Z,8946e78b-49dc-4ea5-bee8-82bd2f4db83c,ZZZ,Slovenia,si,108556554199133,Visit Ribnica,Facebook
-a37812d4-17b0-4934-9e4e-76db5738ad85,Data doo,2024-01-13T05:08:37.937Z,33a1e2bc-b76d-4eb1-acae-5db7a6b16162,ZZZ,Slovenia,si,135399203144311,Data doo,Facebook
-d281c7b5-7b4b-4818-af12-305b1ef3f7f3,National Geographic,2023-11-10T05:58:51.309Z,d183cb50-1096-4737-a32b-f0ff3c526df0,ZZZ,Slovenia,si,171389239640192,National Geographic,Facebook
-cb6c7794-619a-4a03-b66c-768cf5dcf4ec,Slovenska demokratska stranka,2024-04-17T09:16:59.440Z,f28ae482-6a4b-4434-b02d-471188289d0f,Slovenska demokratska stranka,Slovenia,si,AR01143237418506256385,Slovenska demokratska stranka,Google
-22fef11c-d316-4f06-bd12-622d7b027d87,Gibanje Svoboda,2024-04-17T09:08:25.747Z,224532e0-5074-4fd8-b236-f50199d9e1a0,GS,Slovenia,si,AR14131230891116068865,Gibanje Svoboda,Google
-5978a7c2-9f55-4f13-be77-61c6b1b1e99c,Socialni demokrati (SD),2024-04-16T14:37:32.387Z,dea01a5f-e9c5-4bf3-8fcc-fc9c224fd80c,SD,Slovenia,si,AR03738058059461689345,Socialni demokrati (SD),Google
